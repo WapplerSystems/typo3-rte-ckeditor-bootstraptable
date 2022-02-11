@@ -1,0 +1,4 @@
+editor:
+  externalPlugins:
+    bootstrapTable:
+      resource: "EXT:rte_ckeditor_bootstraptable/Resources/Public/JavaScript/Plugins/bootstrapTable5/plugin.js?v=1.0.0"
